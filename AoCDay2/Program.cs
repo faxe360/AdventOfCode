@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AoCDay2
 {
@@ -22,10 +19,10 @@ namespace AoCDay2
                     .ToDictionary(l => l.Key, l => l.Count());
                 if (counted.ContainsValue(2))
                     twos++;
-                //twos += counted.Count(x => x.Value == 2);
+                
                 if (counted.ContainsValue(3))
                     threes++;
-                //threes += counted.Count(x => x.Value == 3);
+                
             }
             Console.WriteLine("CheckSum: " + twos * threes);
             Console.WriteLine("Part2");
