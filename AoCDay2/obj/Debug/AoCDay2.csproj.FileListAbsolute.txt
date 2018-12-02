@@ -1,0 +1,7 @@
+C:\Code\AdventOfCode\AoCDay2\bin\Debug\AoCDay2.exe.config
+C:\Code\AdventOfCode\AoCDay2\bin\Debug\AoCDay2.exe
+C:\Code\AdventOfCode\AoCDay2\bin\Debug\AoCDay2.pdb
+C:\Code\AdventOfCode\AoCDay2\obj\Debug\AoCDay2.csprojResolveAssemblyReference.cache
+C:\Code\AdventOfCode\AoCDay2\obj\Debug\AoCDay2.csproj.CoreCompileInputs.cache
+C:\Code\AdventOfCode\AoCDay2\obj\Debug\AoCDay2.exe
+C:\Code\AdventOfCode\AoCDay2\obj\Debug\AoCDay2.pdb
