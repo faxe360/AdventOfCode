@@ -25,7 +25,6 @@ namespace AoCDay1
             
 
             freq = 0;
-            int freqStore = 0;
             List<int> SeenFreq = new List<int>();
             bool done = false;
             while (!done)
